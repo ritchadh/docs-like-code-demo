@@ -2,5 +2,6 @@
 
 ## tl;dr
 All my cool things, well documented!
-yay
+Function Add to Numbers
+Author: Ritika Chadha
 View the documentation [here](https://ritchadh.github.io/docs-like-code-demo/) for the full
